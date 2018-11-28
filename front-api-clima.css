@@ -1,0 +1,12 @@
+#map {
+	height: 100vh;
+}
+
+#temperatura {
+	text-align: center;
+}
+
+ .img-responsive {
+ 	height: 60vh;
+ 	margin: 0 auto;
+ }
